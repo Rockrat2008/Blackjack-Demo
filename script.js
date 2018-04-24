@@ -1,6 +1,6 @@
 //
 // Blackjack
-// by Mark Zamoyta
+// by Michael O'Brien
 //
 
 // Card variables
